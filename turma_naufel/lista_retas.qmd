@@ -1,0 +1,83 @@
+---
+title: "Retas"
+subtitle: "Monitoria-GACV"
+author: "Adriano Camilo"
+lang: pt
+date: today
+date-format: short
+format: 
+    pdf: 
+        toc: false
+        geometry: 
+            - textwidth=14cm
+            - marginparsep=.25in
+            - marginparwidth=2.25in
+    revealjs: default
+---
+# Uormap
+## 1°Questão
+Verifique se os pontos $A=(2,3)$, $B=(7,8)$ e $C=(12,13)$ são colineares.
+
+# Chega de uormap!
+## 2°Questão
+Escreva as equações da reta que
+
+(a) contém o ponto $(−1, 1)$ e tem direção do vetor $(2, 3)$;
+(b) contém os pontos $A = (3, 2)$ e $B = (2, 3)$
+
+## 4°Questão
+
+Determine as equações cartesianas das retas que
+
+(a) possuem vetor diretor $\vec{c}=(3,5)$ e passam pela origem
+(b) Passam pelos pontos $A=(2,4)$ e $B=(4,5)$
+
+## 5°Questão
+Determine as equações paramétricas da reta $r:x-y-6=0$
+
+## 6°Questão
+
+(a) Mostre que
+$$
+\begin{cases}
+x = 3+2t\\
+y = 7-5t
+\end{cases}
+$$
+são as equações paramétricas da reta definida pelos pontos $A=(3,7)$ e $B=(5,2)$
+
+(b) Quais são os valores atribuídos a $t$ para se obter os pontos $A$ e $B$?
+(c) Qual o ponto de interseção da reta com o eixo x?
+
+## 7°Questão
+
+Dados o ponto $P = (2, −1)$ e a reta $r$ de equação $y = 3x − 5$, escreva
+uma equação da reta que contém o ponto $P$ e
+
+(a) seja paralela à reta $r$
+(b) seja perpendicular à reta $r$
+
+## 8° Questão
+$$
+r:\begin{cases}x =-t\\ y = 2 + \frac{2}{3}t\end{cases}\;, \;t \in R \qquad r:\begin{cases}x = 4 + 4k\\ y = 2-6k\end{cases}\;,\;k \in R
+$$
+
+(a) Determine o vetor direção $\vec{v}$ da reta $r$
+(b) Determine o vetor direção $\vec{w}$ da reta $s$
+(c) É correto afirmar que possuem a mesma direção?
+(d) Determine a posição relativa entre as retas $r$ e $s$
+
+## 9°Questão
+
+Considere as equações paramétricas de retas
+
+$$
+r:\begin{cases}x = 3 - 2t\\ y = 1 + 3t\end{cases}\;, \;t \in R \qquad r:\begin{cases}x = 1 - k\\ y = 1 + k\end{cases}\;,\;k \in R
+$$
+
+(a) Determine a posição relativa entre as retas, é correto afirmar que possuem a mesma direção?
+(b) Encontre o ponto de interseção entre as retas.
+
+## 10°Questão 
+Dados os vetores $\vec{u} = (1, 5)$ e $\vec{v} = (4, 1)$, escreva as equações paramétricas e cartesianas das retas que contém as diagonais do paralelogramo definido por $\vec{u}$ e $\vec{v}$.
+

@@ -1,0 +1,68 @@
+---
+title: "Segmentos orientados e vetores"
+subtitle: "Monitoria-GACV"
+author: "Adriano Camilo"
+lang: pt
+date: today
+date-format: short
+format:
+    pdf: 
+        toc: false
+        geometry: 
+            - textwidth=14cm
+            - marginparsep=.25in
+            - marginparwidth=2.25in
+    revealjs: default
+---
+
+# Segmentos orientados
+## 1° Exercício
+Esboçe um algoritmo para determinar quando dois segmentos de retas são equipolentes.
+
+## 2° Exercício
+Determine o ponto $D$, tal que $\vec{AB}\equiv \vec{CD}$. onde:
+
+1. $A = (2,3)$, $B= (3,5)$ e $C = (3,4)$
+
+2. $A = (4,5)$, $B= (8,9)$ e $C = (0,0)$
+
+2. $A = (2,2)$, $B= (-1,-4)$ e $C = (9,5)$
+
+## 3° Exercício
+Determine se $AB\equiv CD$. onde:
+
+1. $A = (-1,4)$, $B= (3,5)$, $C = (7,8)$ e $D=(10,9)$
+
+2. $A = (3,4)$, $B= (8,9)$, $C = (2,-5)$ e $D=(7,0)$
+
+3. $A = (-10,5)$ ,$B=(-6,-2)$,$C = (9,5)$ e $D=(7,0)$
+
+## 4°Exercício
+
+Determine os vértices $C$ e $D$ do paralelelogramo $ABCD$, sabendo que $A=(2,3)$, $B = (4,7)$ e as diagonais se instersectam em $(5,5)$
+
+## 5°Exercício
+Dado $B = (3, 4)$ e sendo $||AB|| = 2$, qual é o valor máximo que primeira coordenada de A pode assumir? E o mínimo?
+
+# Vetores
+Refaça os exercícios da seção anterior usando cálculo vetorial.
+
+## 1° Exercício
+Encontre um vetor com mesma direção e sentido contrário ao vetor $(-1,2)$ e norma igual a 5.
+
+## 2° Exercício
+Dados $A = (2, y)$ e $B = (3, 3)$, determine $y$ para que o módulo do
+vetor AB seja $\sqrt{5}$.
+
+## 3° Exercício
+Determine x para que se tenha $\vec{AB} = \vec{CD}$, sendo $A = (x, 1)$, $B = (4, x + 3)$, $C = (x, x + 2)$ e $D = (2x, x + 6)$.
+
+## 4°Exercício
+Escreva o vetor $(7, −1)$ como soma de dois vetores, um paralelo ao vetor $(1, −1)$ e o outro paralelo ao vetor $(1, 1)$.
+
+## 5° Exercício
+Encontre um vetor de módulo 5 perpendicular ao vetor $(2, −1)$.
+
+## 6° Exercício
+Determine o valor de x para que o vetor $(2, x^2 − 1)$ seja perpendicular ao vetor $(−6, 4)$.
+
